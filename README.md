@@ -1,0 +1,2 @@
+# salarypredect
+unify salary Predection
